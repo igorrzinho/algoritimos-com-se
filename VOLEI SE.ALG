@@ -1,6 +1,6 @@
 Algoritmo "volei se"
-// 
-//Funcao: informa se você pode competir no volei
+//
+//Funcao: informa se vocÃª pode competir no volei
 //Autor: Igor de jesus Silva
 //Data: / /
 Var
@@ -13,10 +13,10 @@ Leia (idade)
 Escreval ("digite sua altura")
 Leia (altura)
 // Processamento
-Se  (altura >= 1.75 E idade >= 18) entao
-     Escreval ("você pode competir")
-Senão
-     escreval ("Você não pode competir")
+Se((altura >= 1.75)e(idade >= 18))entao
+     Escreval ("vocÃª pode competir")
+SenÃ£o
+     escreval ("VocÃª nÃ£o pode competir")
 Fimse
 
 
